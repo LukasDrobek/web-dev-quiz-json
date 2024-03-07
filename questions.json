@@ -1,0 +1,1001 @@
+[
+  {
+    "id": 1,
+    "type": "multipleChoice",
+    "title": "HTML Basics",
+    "question": "What does HTML stand for?",
+    "options": [
+      "Hyper Text Markup Language",
+      "High Tech Modern Language",
+      "Hyperlink and Text Markup Language",
+      "Home Tool Markup Language"
+    ],
+    "correctOption": "Hyper Text Markup Language"
+  },
+  {
+    "id": 2,
+    "type": "multipleChoice",
+    "title": "CSS Text Color",
+    "question": "Which CSS property is used to change the text color?",
+    "options": ["color", "text-color", "font-color", "text-style"],
+    "correctOption": "color"
+  },
+  {
+    "id": 3,
+    "type": "multipleChoice",
+    "title": "Understanding CSS",
+    "question": "What does the acronym CSS stand for?",
+    "options": [
+      "Computer Style Sheets",
+      "Creative Style Sheets",
+      "Cascading Style Sheets",
+      "Colorful Style Sheets"
+    ],
+    "correctOption": "Cascading Style Sheets"
+  },
+  {
+    "id": 4,
+    "type": "multipleChoice",
+    "title": "Server-side Programming",
+    "question": "Which programming language is commonly used for building the server-side of web applications?",
+    "options": ["JavaScript", "Python", "Ruby", "Node.js"],
+    "correctOption": "Node.js"
+  },
+  {
+    "id": 5,
+    "type": "multipleChoice",
+    "title": "HTML <head> Element",
+    "question": "What is the purpose of the HTML <head> element?",
+    "options": [
+      "It contains the main content of the page",
+      "It defines the header for a document",
+      "It contains metadata about the document",
+      "It specifies the body of the document"
+    ],
+    "correctOption": "It contains metadata about the document"
+  },
+  {
+    "id": 6,
+    "type": "multipleChoice",
+    "title": "Version Control",
+    "question": "Which of the following is a version control system used by developers?",
+    "options": ["GIT", "ZIP", "TAR", "RAR"],
+    "correctOption": "GIT"
+  },
+  {
+    "id": 7,
+    "type": "multipleChoice",
+    "title": "JavaScript Event Handling",
+    "question": "What is the purpose of the JavaScript 'addEventListener' method?",
+    "options": [
+      "To add a new HTML element",
+      "To remove an HTML element",
+      "To attach an event handler to an HTML element",
+      "To create a new JavaScript variable"
+    ],
+    "correctOption": "To attach an event handler to an HTML element"
+  },
+  {
+    "id": 8,
+    "type": "multipleChoice",
+    "title": "Front-end Frameworks",
+    "question": "Which of the following is NOT a front-end framework/library for JavaScript?",
+    "options": ["React", "Angular", "Django", "Vue"],
+    "correctOption": "Django"
+  },
+  {
+    "id": 9,
+    "type": "multipleChoice",
+    "title": "Understanding APIs",
+    "question": "What does API stand for in the context of web development?",
+    "options": [
+      "Advanced Programming Interface",
+      "Application Programming Interface",
+      "Automated Programming Interface",
+      "Advanced Protocol Interface"
+    ],
+    "correctOption": "Application Programming Interface"
+  },
+  {
+    "id": 10,
+    "type": "multipleChoice",
+    "title": "Database Management",
+    "question": "Which of the following is a database management system often used in web development?",
+    "options": ["MySQL", "Photoshop", "Excel", "Word"],
+    "correctOption": "MySQL"
+  },
+  {
+    "id": 11,
+    "type": "multipleChoice",
+    "title": "CSS box-sizing",
+    "question": "What is the purpose of the CSS 'box-sizing' property?",
+    "options": [
+      "It sets the background color of an element",
+      "It defines how the width and height of an element are calculated",
+      "It controls the visibility of an element",
+      "It determines the position of an element on the page"
+    ],
+    "correctOption": "It defines how the width and height of an element are calculated"
+  },
+  {
+    "id": 12,
+    "type": "multipleChoice",
+    "title": "JavaScript Comments",
+    "question": "Which of the following is a valid way to comment out code in JavaScript?",
+    "options": [
+      "<!-- This is a comment -->",
+      "// This is a comment",
+      "' This is a comment '",
+      "# This is a comment"
+    ],
+    "correctOption": "// This is a comment"
+  },
+  {
+    "id": 13,
+    "type": "multipleChoice",
+    "title": "Understanding AJAX",
+    "question": "What does the acronym AJAX stand for?",
+    "options": [
+      "Asynchronous JavaScript and XML",
+      "Advanced JavaScript and XML",
+      "Asynchronous jQuery and XHTML",
+      "Automatic JavaScript and XML"
+    ],
+    "correctOption": "Asynchronous JavaScript and XML"
+  },
+  {
+    "id": 14,
+    "type": "multipleChoice",
+    "title": "Responsive Design",
+    "question": "In web development, what does the term 'responsive design' refer to?",
+    "options": [
+      "Designing websites that respond to user input",
+      "Designing websites that load quickly",
+      "Designing websites that adapt to different screen sizes",
+      "Designing websites with interactive animations"
+    ],
+    "correctOption": "Designing websites that adapt to different screen sizes"
+  },
+  {
+    "id": 15,
+    "type": "multipleChoice",
+    "title": "HTTP Status Codes",
+    "question": "Which HTTP status code indicates that a resource is temporarily unavailable?",
+    "options": [
+      "404 Not Found",
+      "500 Internal Server Error",
+      "302 Found",
+      "503 Service Unavailable"
+    ],
+    "correctOption": "503 Service Unavailable"
+  },
+  {
+    "id": 16,
+    "type": "multipleChoice",
+    "title": "Understanding HTTP",
+    "question": "What does the term 'HTTP' stand for?",
+    "options": [
+      "HyperText Transfer Protocol",
+      "High-Tech Transfer Protocol",
+      "Hyperlink and Text Transfer Protocol",
+      "Home Tool Transfer Protocol"
+    ],
+    "correctOption": "HyperText Transfer Protocol"
+  },
+  {
+    "id": 17,
+    "type": "multipleChoice",
+    "title": "JavaScript localStorage",
+    "question": "What is the purpose of the 'localStorage' object in JavaScript?",
+    "options": [
+      "To store data that will be deleted when the browser is closed",
+      "To store data that persists even when the browser is closed",
+      "To store data that can only be accessed by a specific domain",
+      "To store data that can be accessed by any website"
+    ],
+    "correctOption": "To store data that persists even when the browser is closed"
+  },
+  {
+    "id": 18,
+    "type": "multipleChoice",
+    "title": "Hosting Repositories",
+    "question": "Which platform is commonly used for hosting and reviewing code repositories?",
+    "options": ["Bitbucket", "Dropbox", "GitLab", "GitHub"],
+    "correctOption": "GitHub"
+  },
+  {
+    "id": 19,
+    "type": "multipleChoice",
+    "title": "Understanding CMS",
+    "question": "What does the acronym CMS stand for in web development?",
+    "options": [
+      "Central Management System",
+      "Content Management System",
+      "Code Management System",
+      "Creative Management System"
+    ],
+    "correctOption": "Content Management System"
+  },
+  {
+    "id": 20,
+    "type": "multipleChoice",
+    "title": "Website Styling",
+    "question": "Which of the following is used to style web pages and enhance the user interface in web development?",
+    "options": ["Java", "Swift", "jQuery", "Kotlin"],
+    "correctOption": "jQuery"
+  },
+  {
+    "id": 21,
+    "type": "trueFalse",
+    "title": "HTML Basics",
+    "question": "HTML is primarily used for defining the structure and layout of content on the web.",
+    "options": ["True", "False"],
+    "correctOption": "True"
+  },
+  {
+    "id": 22,
+    "type": "trueFalse",
+    "title": "CSS Fundamentals",
+    "question": "CSS is used for defining the structure of a web page.",
+    "options": ["True", "False"],
+    "correctOption": "False"
+  },
+  {
+    "id": 23,
+    "type": "trueFalse",
+    "title": "JavaScript Overview",
+    "question": "JavaScript is traditionally known as a client-side scripting language.",
+    "options": ["True", "False"],
+    "correctOption": "True"
+  },
+  {
+    "id": 24,
+    "type": "trueFalse",
+    "title": "React.js Architecture",
+    "question": "React.js follows the Model-View-Controller (MVC) architecture for organizing code in web applications.",
+    "options": ["True", "False"],
+    "correctOption": "False"
+  },
+  {
+    "id": 25,
+    "type": "trueFalse",
+    "title": "HTML Canvas Element",
+    "question": "The <canvas> element in HTML is used for drawing graphics using JavaScript.",
+    "options": ["True", "False"],
+    "correctOption": "True"
+  },
+  {
+    "id": 26,
+    "type": "trueFalse",
+    "title": "Bootstrap Framework",
+    "question": "Bootstrap is a CSS framework developed by Google.",
+    "options": ["True", "False"],
+    "correctOption": "False"
+  },
+  {
+    "id": 27,
+    "type": "trueFalse",
+    "title": "AJAX Asynchrony",
+    "question": "The 'A' in AJAX stands for 'Asynchronous,' indicating that data can be loaded in the background without requiring a full page refresh.",
+    "options": ["True", "False"],
+    "correctOption": "True"
+  },
+  {
+    "id": 28,
+    "type": "trueFalse",
+    "title": "Responsive Web Design",
+    "question": "Responsive web design aims to provide an optimal viewing and interaction experience across a wide range of devices, including mobile phones and tablets.",
+    "options": ["True", "False"],
+    "correctOption": "True"
+  },
+  {
+    "id": 29,
+    "type": "trueFalse",
+    "title": "RESTful API Statelessness",
+    "question": "One of the principles of RESTful APIs is statelessness, meaning that each request from a client contains all the information needed to understand and process the request.",
+    "options": ["True", "False"],
+    "correctOption": "True"
+  },
+  {
+    "id": 30,
+    "type": "trueFalse",
+    "title": "localStorage Persistence",
+    "question": "Unlike session storage, data stored in localStorage persists even after the browser is closed and reopened.",
+    "options": ["True", "False"],
+    "correctOption": "True"
+  },
+  {
+    "id": 31,
+    "type": "trueFalse",
+    "title": "SEO Basics",
+    "question": "SEO stands for Search Engine Optimization.",
+    "options": ["True", "False"],
+    "correctOption": "True"
+  },
+  {
+    "id": 32,
+    "type": "trueFalse",
+    "title": "WebSocket Communication",
+    "question": "WebSockets provide full-duplex communication channels over a single, long-lived connection.",
+    "options": ["True", "False"],
+    "correctOption": "True"
+  },
+  {
+    "id": 33,
+    "type": "trueFalse",
+    "title": "HTTP/2 Protocol",
+    "question": "HTTP/2 is the latest version of the Hypertext Transfer Protocol.",
+    "options": ["True", "False"],
+    "correctOption": "False"
+  },
+  {
+    "id": 34,
+    "type": "trueFalse",
+    "title": "404 Error Significance",
+    "question": "A 404 error indicates that a requested resource was not found on the server.",
+    "options": ["True", "False"],
+    "correctOption": "True"
+  },
+  {
+    "id": 35,
+    "type": "trueFalse",
+    "title": "HTML <article> Element",
+    "question": "The <article> element in HTML is used for navigation links.",
+    "options": ["True", "False"],
+    "correctOption": "False"
+  },
+  {
+    "id": 36,
+    "type": "trueFalse",
+    "title": "CSS Grid Layout",
+    "question": "CSS Grid Layout is a two-dimensional layout system for the web.",
+    "options": ["True", "False"],
+    "correctOption": "True"
+  },
+  {
+    "id": 37,
+    "type": "trueFalse",
+    "title": "JavaScript forEach Method",
+    "question": "JavaScript's forEach method is used for asynchronous iteration.",
+    "options": ["True", "False"],
+    "correctOption": "False"
+  },
+  {
+    "id": 38,
+    "type": "trueFalse",
+    "title": "async Keyword in JavaScript",
+    "question": "The async keyword is used to declare an asynchronous function in JavaScript.",
+    "options": ["True", "False"],
+    "correctOption": "True"
+  },
+  {
+    "id": 39,
+    "type": "trueFalse",
+    "title": "Cookies Usage",
+    "question": "Cookies are primarily used for server-side storage of user information.",
+    "options": ["True", "False"],
+    "correctOption": "False"
+  },
+  {
+    "id": 40,
+    "type": "trueFalse",
+    "title": "GraphQL Origin",
+    "question": "GraphQL is a query language for APIs that was developed by Facebook.",
+    "options": ["True", "False"],
+    "correctOption": "True"
+  },
+  {
+    "id": 41,
+    "type": "matching",
+    "title": "Match the Frameworks",
+    "question": "Match each frontend framework with its corresponding backend framework.",
+    "options": {
+      "items": ["Node.js", "Django", "Spring Boot", "Express"],
+      "matches": ["React", "Vue", "Angular", "Svelte"]
+    },
+    "correctMatches": {
+      "Node.js": "React",
+      "Django": "Vue",
+      "Spring Boot": "Angular",
+      "Express": "Svelte"
+    }
+  },
+  {
+    "id": 42,
+    "type": "matching",
+    "title": "Match the Programming Languages",
+    "question": "Match each programming language with its primary use case.",
+    "options": {
+      "items": [
+        "Web Development",
+        "Data Science",
+        "Mobile App Development",
+        "Desktop Applications"
+      ],
+      "matches": ["Python", "JavaScript", "Java", "C#"]
+    },
+    "correctMatches": {
+      "Data Science": "Python",
+      "Web Development": "JavaScript",
+      "Desktop Applications": "Java",
+      "Mobile App Development": "C#"
+    }
+  },
+  {
+    "id": 43,
+    "type": "matching",
+    "title": "Match the Frontend Frameworks",
+    "question": "Match each frontend framework with its description.",
+    "options": {
+      "items": [
+        "Component-based library",
+        "Progressive framework",
+        "Full-fledged framework",
+        "Component framework"
+      ],
+      "matches": ["React", "Vue", "Angular", "Svelte"]
+    },
+    "correctMatches": {
+      "Component-based library": "React",
+      "Progressive framework": "Vue",
+      "Full-fledged framework": "Angular",
+      "Component framework": "Svelte"
+    }
+  },
+  {
+    "id": 44,
+    "type": "matching",
+    "title": "Match the Database Management Systems",
+    "question": "Match each database management system with its type.",
+    "options": {
+      "items": [
+        "Relational Database",
+        "NoSQL Database",
+        "Object-Relational Database",
+        "Embedded Database"
+      ],
+      "matches": ["MySQL", "MongoDB", "PostgreSQL", "SQLite"]
+    },
+    "correctMatches": {
+      "Relational Database": "MySQL",
+      "NoSQL Database": "MongoDB",
+      "Object-Relational Database": "PostgreSQL",
+      "Embedded Database": "SQLite"
+    }
+  },
+  {
+    "id": 45,
+    "type": "matching",
+    "title": "Match the Design Patterns",
+    "question": "Match each design pattern with its description.",
+    "options": {
+      "items": [
+        "Ensures a class has only one instance",
+        "Defines a one-to-many dependency",
+        "Provides an interface for creating objects",
+        "Attaches additional responsibilities to an object"
+      ],
+      "matches": ["Singleton", "Observer", "Factory Method", "Decorator"]
+    },
+    "correctMatches": {
+      "Ensures a class has only one instance": "Singleton",
+      "Defines a one-to-many dependency": "Observer",
+      "Provides an interface for creating objects": "Factory Method",
+      "Attaches additional responsibilities to an object": "Decorator"
+    }
+  },
+  {
+    "id": 46,
+    "type": "matching",
+    "title": "Match the Cloud Services",
+    "question": "Match each cloud service with its provider.",
+    "options": {
+      "items": ["Amazon", "Microsoft", "Google", "IBM"],
+      "matches": ["AWS", "Azure", "Google Cloud", "IBM Cloud"]
+    },
+    "correctMatches": {
+      "Amazon": "AWS",
+      "Microsoft": "Azure",
+      "Google": "Google Cloud",
+      "IBM": "IBM Cloud"
+    }
+  },
+  {
+    "id": 47,
+    "type": "matching",
+    "title": "Match the Sorting Algorithms",
+    "question": "Match each sorting algorithm with its complexity.",
+    "options": {
+      "items": ["Boggo Sort", "Quick Sort", "Radix Sort", "Insertion Sort"],
+      "matches": ["O(n^2)", "O(n log n)", "O(n * k)", "O(n!)"]
+    },
+    "correctMatches": {
+      "Boggo Sort": "O(n!)",
+      "Quick Sort": "O(n log n)",
+      "Radix Sort": "O(n * k)",
+      "Insertion Sort": "O(n^2)"
+    }
+  },
+  {
+    "id": 48,
+    "type": "matching",
+    "title": "Match the Networking Protocols",
+    "question": "Match each networking protocol with its description.",
+    "options": {
+      "items": [
+        "Hypertext Transfer Protocol",
+        "File Transfer Protocol",
+        "Simple Mail Transfer Protocol",
+        "Domain Name System"
+      ],
+      "matches": ["HTTP", "FTP", "SMTP", "DNS"]
+    },
+    "correctMatches": {
+      "Hypertext Transfer Protocol": "HTTP",
+      "File Transfer Protocol": "FTP",
+      "Simple Mail Transfer Protocol": "SMTP",
+      "Domain Name System": "DNS"
+    }
+  },
+  {
+    "id": 49,
+    "type": "matching",
+    "title": "Match the Data Structures",
+    "question": "Match each data structure with its use case.",
+    "options": {
+      "items": [
+        "LIFO (Last In, First Out) structure",
+        "FIFO (First In, First Out) structure",
+        "Linear collection of elements",
+        "Hierarchical structure of elements"
+      ],
+      "matches": ["Stack", "Queue", "Linked List", "Tree"]
+    },
+    "correctMatches": {
+      "LIFO (Last In, First Out) structure": "Stack",
+      "FIFO (First In, First Out) structure": "Queue",
+      "Linear collection of elements": "Linked List",
+      "Hierarchical structure of elements": "Tree"
+    }
+  },
+  {
+    "id": 50,
+    "type": "matching",
+    "title": "Match the Software Development Models",
+    "question": "Match each software development model with its description.",
+    "options": {
+      "items": [
+        "Sequential and linear development",
+        "Iterative and flexible development",
+        "Framework for implementing Agile",
+        "Integration of development and operations"
+      ],
+      "matches": ["Waterfall", "Agile", "Scrum", "DevOps"]
+    },
+    "correctMatches": {
+      "Sequential and linear development": "Waterfall",
+      "Iterative and flexible development": "Agile",
+      "Framework for implementing Agile": "Scrum",
+      "Integration of development and operations": "DevOps"
+    }
+  },
+  {
+    "id": 51,
+    "type": "matching",
+    "title": "Match the Web Browsers",
+    "question": "Match each web browser with its logo.",
+    "options": {
+      "items": [
+        "<i class='fa-brands fa-chrome'></i>",
+        "<i class='fa-brands fa-firefox'></i>",
+        "<i class='fa-brands fa-safari'></i>",
+        "<i class='fa-brands fa-edge'></i>"
+      ],
+      "matches": ["Chrome", "Firefox", "Safari", "Edge"]
+    },
+    "correctMatches": {
+      "<i class='fa-brands fa-chrome'></i>": "Chrome",
+      "<i class='fa-brands fa-firefox'></i>": "Firefox",
+      "<i class='fa-brands fa-safari'></i>": "Safari",
+      "<i class='fa-brands fa-edge'></i>": "Edge"
+    }
+  },
+  {
+    "id": 52,
+    "type": "matching",
+    "title": "Match the Cryptocurrencies",
+    "question": "Match each cryptocurrency with its symbol.",
+    "options": {
+      "items": ["BTC", "ETH", "XRP", "LTC"],
+      "matches": ["Bitcoin", "Ethereum", "Ripple", "Litecoin"]
+    },
+    "correctMatches": {
+      "BTC": "Bitcoin",
+      "ETH": "Ethereum",
+      "XRP": "Ripple",
+      "LTC": "Litecoin"
+    }
+  },
+  {
+    "id": 53,
+    "type": "matching",
+    "title": "Match the Operating Systems",
+    "question": "Match each operating system with its logo.",
+    "options": {
+      "items": [
+        "<i class='fa-brands fa-windows'></i>",
+        "<i class='fa-brands fa-apple'></i>",
+        "<i class='fa-brands fa-linux'></i>",
+        "<i class='fa-brands fa-android'></i>"
+      ],
+      "matches": ["Windows", "macOS", "Linux", "Android"]
+    },
+    "correctMatches": {
+      "<i class='fa-brands fa-windows'></i>": "Windows",
+      "<i class='fa-brands fa-apple'></i>": "macOS",
+      "<i class='fa-brands fa-linux'></i>": "Linux",
+      "<i class='fa-brands fa-android'></i>": "Android"
+    }
+  },
+  {
+    "id": 54,
+    "type": "matching",
+    "title": "Match the Programming Paradigms",
+    "question": "Match each programming paradigm with its description.",
+    "options": {
+      "items": [
+        "Describes how a program operates",
+        "Specifies what a program should accomplish",
+        "Organizes code around objects",
+        "Treats computation as the evaluation of mathematical functions"
+      ],
+      "matches": ["Imperative", "Declarative", "Object-Oriented", "Functional"]
+    },
+    "correctMatches": {
+      "Describes how a program operates": "Imperative",
+      "Specifies what a program should accomplish": "Declarative",
+      "Organizes code around objects": "Object-Oriented",
+      "Treats computation as the evaluation of mathematical functions": "Functional"
+    }
+  },
+  {
+    "id": 55,
+    "type": "matching",
+    "title": "Match the Mobile App Platforms",
+    "question": "Match each mobile app platform with its developer language.",
+    "options": {
+      "items": [
+        "Swift and Objective-C",
+        "Java and Kotlin",
+        "JavaScript and TypeScript",
+        "Dart"
+      ],
+      "matches": ["iOS", "Android", "React Native", "Flutter"]
+    },
+    "correctMatches": {
+      "Swift and Objective-C": "iOS",
+      "Java and Kotlin": "Android",
+      "JavaScript and TypeScript": "React Native",
+      "Dart": "Flutter"
+    }
+  },
+  {
+    "id": 56,
+    "type": "matching",
+    "title": "Match the Frontend Tools",
+    "question": "Match each frontend development tool with its purpose.",
+    "options": {
+      "items": [
+        "Module bundler",
+        "JavaScript compiler",
+        "Code quality tool",
+        "Zero-configuration bundler"
+      ],
+      "matches": ["Webpack", "Babel", "ESLint", "Parcel"]
+    },
+    "correctMatches": {
+      "Module Bundler": "Webpack",
+      "JavaScript Compiler": "Babel",
+      "Code Quality Tool": "ESLint",
+      "Zero-Configuration Bundler": "Parcel"
+    }
+  },
+  {
+    "id": 57,
+    "type": "matching",
+    "title": "Match the AI Frameworks",
+    "question": "Match each AI framework with its programming language support.",
+    "options": {
+      "items": ["Python", "Java", "R", "Julia"],
+      "matches": ["TensorFlow", "PyTorch", "Scikit-Learn", "Keras"]
+    },
+    "correctMatches": {
+      "Python": "TensorFlow",
+      "Java": "PyTorch",
+      "R": "Scikit-Learn",
+      "Julia": "Keras"
+    }
+  },
+  {
+    "id": 58,
+    "type": "matching",
+    "title": "Match the Version Control Systems",
+    "question": "Match each version control system with its purpose.",
+    "options": {
+      "items": [
+        "Distributed version control",
+        "Centralized version control",
+        "Version control with branching support",
+        "Version control with locking mechanism"
+      ],
+      "matches": ["Git", "SVN", "Mercurial", "Perforce"]
+    },
+    "correctMatches": {
+      "Distributed version control": "Git",
+      "Centralized version control": "SVN",
+      "Version control with branching support": "Mercurial",
+      "Version control with locking mechanism": "Perforce"
+    }
+  },
+  {
+    "id": 59,
+    "type": "matching",
+    "title": "Match the Mobile App Architectures",
+    "question": "Match each mobile app architecture with its characteristics.",
+    "options": {
+      "items": [
+        "Separation of concerns",
+        "Data-binding",
+        "State management pattern",
+        "Modular and scalable architecture"
+      ],
+      "matches": ["MVC", "MVVM", "Redux", "Clean Architecture"]
+    },
+    "correctMatches": {
+      "Separation of concerns": "MVC",
+      "Data-binding": "MVVM",
+      "State management pattern": "Redux",
+      "Modular and scalable architecture": "Clean Architecture"
+    }
+  },
+  {
+    "id": 60,
+    "type": "matching",
+    "title": "Match the Cryptographic Algorithms",
+    "question": "Match each cryptographic algorithm with its purpose.",
+    "options": {
+      "items": [
+        "Symmetric encryption",
+        "Asymmetric encryption",
+        "Hash function",
+        "Message Authentication Code (MAC)"
+      ],
+      "matches": ["AES", "RSA", "SHA-256", "MD5"]
+    },
+    "correctMatches": {
+      "Symetric encryption": "AES",
+      "Asymmetric encryption": "RSA",
+      "Hash function": "SHA-256",
+      "Message Authentication Code (MAC)": "MD5"
+    }
+  },
+
+  {
+    "id": 61,
+    "type": "fillInTheBlank",
+    "title": "Complete the Code",
+    "question": "In JavaScript, the ________ method is used to add elements to the end of an array.",
+    "options": {
+      "blanks": [1]
+    },
+    "correctOptions": ["push"]
+  },
+  {
+    "id": 62,
+    "type": "fillInTheBlank",
+    "title": "JavaScript Basics",
+    "question": "A JavaScript ________ allows you to group and organize code into reusable blocks.",
+    "options": {
+      "blanks": [1]
+    },
+    "correctOptions": ["function"]
+  },
+  {
+    "id": 63,
+    "type": "fillInTheBlank",
+    "title": "HTML Elements",
+    "question": "HTML uses ________ to define the structure and content of a web page.",
+    "options": {
+      "blanks": [1]
+    },
+    "correctOptions": ["elements"]
+  },
+  {
+    "id": 64,
+    "type": "fillInTheBlank",
+    "title": "CSS Box Model",
+    "question": "The CSS ________ property defines the space around an element's content, inside of any borders.",
+    "options": {
+      "blanks": [1]
+    },
+    "correctOptions": ["margin"]
+  },
+  {
+    "id": 65,
+    "type": "fillInTheBlank",
+    "title": "React Components",
+    "question": "In React, a ________ is a self-contained module that encapsulates a specific piece of functionality.",
+    "options": {
+      "blanks": [1]
+    },
+    "correctOptions": ["component"]
+  },
+  {
+    "id": 66,
+    "type": "fillInTheBlank",
+    "title": "SQL Queries",
+    "question": "To retrieve specific data from a SQL database, you use the ________ statement.",
+    "options": {
+      "blanks": [1]
+    },
+    "correctOptions": ["select"]
+  },
+  {
+    "id": 67,
+    "type": "fillInTheBlank",
+    "title": "Git Commands",
+    "question": "To create a new branch in Git, you use the ________ command.",
+    "options": {
+      "blanks": [1]
+    },
+    "correctOptions": ["git checkout -b"]
+  },
+  {
+    "id": 68,
+    "type": "fillInTheBlank",
+    "title": "Python Programming",
+    "question": "A Python ________ is a named sequence of statements.",
+    "options": {
+      "blanks": [1]
+    },
+    "correctOptions": ["function"]
+  },
+  {
+    "id": 69,
+    "type": "fillInTheBlank",
+    "title": "Web Development Tools",
+    "question": "The browser's ________ is a tool that allows developers to inspect and debug web pages.",
+    "options": {
+      "blanks": [1]
+    },
+    "correctOptions": [
+      "devtools",
+      "dev tools",
+      "developer tools",
+      "developer console"
+    ]
+  },
+  {
+    "id": 70,
+    "type": "fillInTheBlank",
+    "title": "Docker Commands",
+    "question": "To run a Docker container, you use the ________ command.",
+    "options": {
+      "blanks": [1]
+    },
+    "correctOptions": ["docker run", "run", "run docker"]
+  },
+  {
+    "id": 71,
+    "type": "fillInTheBlank",
+    "title": "Node.js Modules",
+    "question": "In Node.js (CommonJS), you can import a module using the ________ statement.",
+    "options": {
+      "blanks": [1]
+    },
+    "correctOptions": ["require"]
+  },
+  {
+    "id": 72,
+    "type": "fillInTheBlank",
+    "title": "Frontend Frameworks",
+    "question": "________ are libraries or frameworks that assist with building user interfaces in web development.",
+    "options": {
+      "blanks": [1]
+    },
+    "correctOptions": [
+      "frontend frameworks",
+      "front-end frameworks",
+      "frontend libraries",
+      "front-end libraries",
+      "ui frameworks",
+      "ui libraries"
+    ]
+  },
+  {
+    "id": 73,
+    "type": "fillInTheBlank",
+    "title": "Cybersecurity Concepts",
+    "question": "The process of converting plaintext into unreadable text to secure information is called ________.",
+    "options": {
+      "blanks": [1]
+    },
+    "correctOptions": ["encryption"]
+  },
+  {
+    "id": 74,
+    "type": "fillInTheBlank",
+    "title": "RESTful APIs",
+    "question": "In RESTful APIs, the ________ is a unique identifier for a resource.",
+    "options": {
+      "blanks": [1]
+    },
+    "correctOptions": ["uri"]
+  },
+  {
+    "id": 75,
+    "type": "fillInTheBlank",
+    "title": "Responsive Web Design",
+    "question": "________ design ensures that a web application or site works on various devices and screen sizes.",
+    "options": {
+      "blanks": [1]
+    },
+    "correctOptions": ["responsive"]
+  },
+  {
+    "id": 76,
+    "type": "fillInTheBlank",
+    "title": "HTTP Status Codes",
+    "question": "A ________ status code indicates that the request was successful.",
+    "options": {
+      "blanks": [1]
+    },
+    "correctOptions": ["200"]
+  },
+  {
+    "id": 77,
+    "type": "fillInTheBlank",
+    "title": "JavaScript Promises",
+    "question": "A ________ in JavaScript represents a value that may not be available yet.",
+    "options": {
+      "blanks": [1]
+    },
+    "correctOptions": ["promise"]
+  },
+  {
+    "id": 78,
+    "type": "fillInTheBlank",
+    "title": "WebSockets",
+    "question": "WebSockets provide ________ communication channels over a single, long-lived connection.",
+    "options": {
+      "blanks": [1]
+    },
+    "correctOptions": [
+      "full-duplex",
+      "full duplex",
+      "bidirectional",
+      "two-way",
+      "two way"
+    ]
+  },
+  {
+    "id": 79,
+    "type": "fillInTheBlank",
+    "title": "Software Testing",
+    "question": "The process of executing a program or application with the intent of finding software bugs is called ________.",
+    "options": {
+      "blanks": [1]
+    },
+    "correctOptions": ["testing", "debugging"]
+  },
+  {
+    "id": 80,
+    "type": "fillInTheBlank",
+    "title": "CSS Flexbox",
+    "question": "In CSS, ________ is a layout model that allows elements to distribute space and align content.",
+    "options": {
+      "blanks": [1]
+    },
+    "correctOptions": ["flexbox"]
+  }
+]
