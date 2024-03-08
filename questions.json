@@ -686,10 +686,10 @@
     "question": "Match each frontend development tool with its purpose.",
     "options": {
       "items": [
-        "Module bundler",
-        "JavaScript compiler",
-        "Code quality tool",
-        "Zero-configuration bundler"
+        "Module Bundler",
+        "JavaScript Compiler",
+        "Code Quality Tool",
+        "Zero-Configuration Bundler"
       ],
       "matches": ["Webpack", "Babel", "ESLint", "Parcel"]
     },
@@ -765,7 +765,7 @@
     "question": "Match each cryptographic algorithm with its purpose.",
     "options": {
       "items": [
-        "Symmetric encryption",
+        "Symetric encryption",
         "Asymmetric encryption",
         "Hash function",
         "Message Authentication Code (MAC)"
